@@ -20,6 +20,6 @@ fruits.shift()
 console.log(fruits)
 
 
-fruits.slice(1,1)
+fruits.splice(1,3)
 console.log(fruits)
 
