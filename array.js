@@ -23,3 +23,11 @@ console.log(fruits)
 fruits.splice(1,3)
 console.log(fruits)
 
+
+
+//spread operator
+console.log(fruits);
+let newarray = [...fruits,"A","B"];
+console.log(newarray);
+console.log(fruits);
+
