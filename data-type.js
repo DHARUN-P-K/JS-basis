@@ -12,3 +12,13 @@ let b=5;
 let r= 6;
 console.log(b+r);
 
+let name = " Martin Luthor";
+let age = 23;
+let price = 150.25;
+let isStudent = false;
+console.log(name);
+
+//Templete strings
+console.log(`My name is : ${name}`);
+
+
